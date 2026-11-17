@@ -1,4 +1,4 @@
-# Hi, I'm Rustam 👋
+# I'm Rustam – Product & Principal Designer 👋
 
 **Product & Principal Designer with a business mindset.** Based in Belgrade, Serbia · open to relocation and remote.
 
