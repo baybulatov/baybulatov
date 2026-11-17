@@ -1,6 +1,6 @@
-# I'm Rustam – Product & Principal Designer 👋
+# I'm Rustam – Principal & Product Designer 👋
 
-**Product & Principal Designer with a business mindset.** Based in Belgrade, Serbia · open to relocation and remote.
+**Principal & Product Designer with a business mindset.** Based in Belgrade, Serbia · open to relocation and remote.
 
 I design mobile, web and SaaS products and take them from zero to production: research, MVP scope, design systems, A/B tests, handoff. 40+ products shipped across wellness, fintech, CRM, eCommerce, blockchain, AI and edtech. I care about design that moves a business metric, and I measure it.
 
