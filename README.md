@@ -2,7 +2,7 @@
 
 **Product & Principal Designer with a business mindset.** Based in Belgrade, Serbia · open to relocation and remote.
 
-I design mobile, web and SaaS products and take them from zero to production: research, MVP scope, design systems, A/B tests, handoff. 40+ products shipped across wellness, fintech, CRM, eCommerce, blockchain, gaming, AI and edtech. I care about design that moves a business metric, and I measure it.
+I design mobile, web and SaaS products and take them from zero to production: research, MVP scope, design systems, A/B tests, handoff. 40+ products shipped across wellness, fintech, CRM, eCommerce, blockchain, AI and edtech. I care about design that moves a business metric, and I measure it.
 
 ## Selected results
 
